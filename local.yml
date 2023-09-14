@@ -13,5 +13,5 @@
     tags:
       - install
       - core
-    tasks:
-      - include: tasks/ssh.yml
+  tasks:
+    - include: tasks/ssh.yml
